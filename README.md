@@ -5,6 +5,11 @@ I'm currently working on...
 - Python
 - SQL
 
+I'm currently learning
+- SQL
+
+Ask me about: How well an English degree pairs with a career in Software Engineering!
+
 <!--
 **raeoxfordhebron/raeoxfordhebron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
