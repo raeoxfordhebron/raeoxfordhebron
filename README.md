@@ -6,7 +6,7 @@ I'm currently working on...
 - SQL
 
 I'm currently learning
-- SQL
+- Django
 
 Ask me about: How well an English degree pairs with a career in Software Engineering!
 
