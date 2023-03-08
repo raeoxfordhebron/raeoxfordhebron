@@ -1,12 +1,13 @@
 ### Welcome! 👋
 
 I'm currently working on...
+- Oracle
 - React
-- Python
+- JavaScript
 - SQL
 
 I'm currently learning
-- Django
+- Oracle
 
 Ask me about: How well an English degree pairs with a career in Software Engineering!
 
