@@ -7,7 +7,7 @@ I'm currently working on...
 - SQL
 
 I'm currently learning
-- Oracle
+- Sequelize
 
 Ask me about: How well an English degree pairs with a career in Software Engineering!
 
