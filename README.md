@@ -1,14 +1,14 @@
 ### Welcome! 👋
 
 I'm currently working on...
-- Oracle
+- Ruby
 - React
 - JavaScript
 - SQL
 - Sequelize
 
 I'm currently learning
-- Sequelize
+- Ruby
 
 Ask me about: How well an English degree pairs with a career in Software Engineering!
 
