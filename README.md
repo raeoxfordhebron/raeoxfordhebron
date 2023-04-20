@@ -5,7 +5,6 @@ I'm currently working on...
 - React
 - JavaScript
 - SQL
-- Sequelize
 
 I'm currently learning
 - Ruby
