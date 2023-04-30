@@ -2,12 +2,13 @@
 
 I'm currently working on...
 - Ruby
+- Rails
 - React
 - JavaScript
 - SQL
 
 I'm currently learning
-- Ruby
+- Rails
 
 Ask me about: How well an English degree pairs with a career in Software Engineering!
 
